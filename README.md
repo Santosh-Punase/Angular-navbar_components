@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Live Demo
 
-Live Demo is hosted using [Github pages](https://santosh-punase.github.io/TodoApp-typescript//)
+Live Demo is hosted using [Github pages](https://santosh-punase.github.io/Angular-navbar_components/)
 
 
 ## Running unit tests
